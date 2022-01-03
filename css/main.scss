@@ -384,18 +384,4 @@ nav {
     }
 }
 
-@media only screen and (min-width: 1450px) {
 
-    .features-section {
-
-        &:after {
-            content: '';
-            position: absolute;
-            width: 200%;
-            height: 20em;
-            background: url('../images/dots.svg') no-repeat;
-            left: 4.5em;
-            top: 2em;
-        }
-    }
-}
