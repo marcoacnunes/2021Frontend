@@ -1,3 +1,11 @@
 # Demo
 
-![](https://github.com/marcoacnunes/2021Frontend/blob/master/images/gif.gif)
+![](https://github.com/marcoacnunes/frontfliks/blob/master/src/gif.gif)
+
+Setup
+
+* download repository
+
+`npm install @mui/icons-material`
+
+`npm start`
